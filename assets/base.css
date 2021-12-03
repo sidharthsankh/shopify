@@ -2330,3 +2330,12 @@ details-disclosure > details {
   }
 }
 
+
+
+
+/* custom edi */
+
+
+.header__heading{
+  background-color: aqua;
+}
