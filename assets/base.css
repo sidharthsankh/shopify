@@ -2329,3 +2329,9 @@ details-disclosure > details {
     stroke: CanvasText;
   }
 }
+
+
+
+body{
+  background-color: brown;
+}
